@@ -1,5 +1,5 @@
 ## Description
-Replace your ROM's sounds with the ones from OxygenOS!
+Add OxygenOS ringtones, notifications and alarms sounds to your ROM!
 
 #### Current Version
 1.0
