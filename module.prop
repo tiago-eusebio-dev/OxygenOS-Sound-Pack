@@ -1,0 +1,7 @@
+id=oos-sounds
+name=OxygenOS Sound Pack
+version=v1
+versionCode=1
+author=tfae
+description=This module adds OxygenOS sounds to your ROM
+minMagisk=1500
