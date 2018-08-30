@@ -1,5 +1,5 @@
 ## Description
-Replace your ROM's sounds with the ones from OxygenOS… and maybe one or two surprises! 😎
+Replace your ROM's sounds with the ones from OxygenOS!
 
 #### Current Version
 1.0
