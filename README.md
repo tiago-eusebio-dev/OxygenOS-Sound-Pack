@@ -2,14 +2,15 @@
 Add OxygenOS ringtones, notifications and alarms sounds to your ROM!
 
 #### Current Version
-1.0
+1.01
 
 #### Changelog
 
+* 1.01 (2018-09-05) - Update to Magisk v17000 template
 * 1.0 (2018-08-30) - Initial release
 
 #### Magisk Template
-v1500
+v17000
 
 #### NOTICE
 
