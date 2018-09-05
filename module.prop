@@ -4,4 +4,4 @@ version=v1
 versionCode=1
 author=tfae
 description=This module adds OxygenOS sounds to your ROM
-minMagisk=1500
+minMagisk=17000
