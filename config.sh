@@ -40,10 +40,10 @@ LATESTARTSERVICE=false
 # Set what you want to show when installing your mod
 
 print_modname() {
-  ui_print "********************************"
-  ui_print "      OxygenOS Sounds Pack      "
-  ui_print "         by tfae @ XDA          "
-  ui_print "********************************"
+  ui_print "*******************************"
+  ui_print "      OxygenOS Sound Pack      "
+  ui_print "         by tfae @ XDA         "
+  ui_print "*******************************"
 }
 
 ##########################################################################################
