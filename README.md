@@ -24,5 +24,5 @@ Add OxygenOS ringtones, notifications and alarms sounds to your ROM!
 * <a href="https://forum.xda-developers.com/member.php?u=4470081">topjohnwu@xda</a> for developing Magisk
 
 
-Copyright (C) 2017-2018 <a href="https://forum.xda-developers.com/member.php?u=4470081">tfae</a> (tfaeusebio@gmail.com)
+Copyright (C) 2018 <a href="https://forum.xda-developers.com/member.php?u=6415870">tfae@xda</a> (tfaeusebio@gmail.com)
 
