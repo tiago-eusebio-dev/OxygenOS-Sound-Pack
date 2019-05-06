@@ -1,7 +1,6 @@
 id=oos-sounds
 name=OxygenOS Sound Pack
-version=v4
-versionCode=4
+version=v5
+versionCode=5
 author=tfae
 description=Add OxygenOS ringtones, notifications and alarms sounds to your ROM!
-minMagisk=17000

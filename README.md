@@ -5,6 +5,7 @@ Add OxygenOS ringtones, notifications and alarms sounds to your ROM!
 
 
 ## Changelog
+* v5    (06.05.2019) - Update to Magisk v18100 template
 * v4    (18.11.2018) - Make the version to be the same as the versionCode
 * v1.01 (05.09.2018) - Update to Magisk v17000 template
 * v1.0  (30.08.2018) - Initial release
@@ -24,5 +25,5 @@ Add OxygenOS ringtones, notifications and alarms sounds to your ROM!
 * <a href="https://forum.xda-developers.com/member.php?u=4470081">topjohnwu@xda</a> for developing Magisk
 
 
-Copyright (C) 2018 <a href="https://forum.xda-developers.com/member.php?u=6415870">tfae@xda</a> (tfaeusebio@gmail.com)
+Copyright (C) 2019 <a href="https://forum.xda-developers.com/member.php?u=6415870">tfae@xda</a> (tfaeusebio@gmail.com)
 
