@@ -18,7 +18,7 @@ Add OxygenOS ringtones, notifications and alarms sounds to your ROM!
 
 ## Links
 * [![XDA Thread](https://img.shields.io/badge/XDA-Thread-orange.svg)](https://forum.xda-developers.com/apps/magisk/magisk-oxygenos-sound-pack-v4-t3868542)
-* [![Magisk](https://img.shields.io/badge/Magisk-v17%2B-brightgreen.svg)](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)
+* [![Magisk](https://img.shields.io/badge/Magisk-18%2B-00B39B.svg)](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)
 
 
 ## Credits
